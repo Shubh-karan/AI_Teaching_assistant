@@ -1,0 +1,33 @@
+{
+  "chunks": [
+    {
+      "number": "0",
+      "title": "sample",
+      "start": 0.0,
+      "end": 2.88,
+      "text": " Hello students, my name is Dr. Gajendra Pirohit."
+    },
+    {
+      "number": "0",
+      "title": "sample",
+      "start": 2.88,
+      "end": 6.72,
+      "text": " This is a series in which I am going to explain this topic in 5 minutes."
+    },
+    {
+      "number": "0",
+      "title": "sample",
+      "start": 6.72,
+      "end": 9.200000000000001,
+      "text": " Before that I have uploaded many videos."
+    },
+    {
+      "number": "0",
+      "title": "sample",
+      "start": 9.200000000000001,
+      "end": 12.32,
+      "text": " Students, I am going to explain this topic in 5 minutes."
+    }
+  ],
+  "text": " Hello students, my name is Dr. Gajendra Pirohit. This is a series in which I am going to explain this topic in 5 minutes. Before that I have uploaded many videos. Students, I am going to explain this topic in 5 minutes."
+}
